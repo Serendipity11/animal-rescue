@@ -10,7 +10,6 @@ h5 {
 }
 /* Navbar */
 nav,
-a,
 li,
 .nav-container {
   background-color: #f9f7fe;
@@ -87,8 +86,11 @@ nav a {
   font-style: normal;
   font-weight: 400;
 }
-.social-links {
-  color: black;
+.social-links i {
+  color: black !important;
+}
+.social-links i:hover {
+  color: #6c63ff !important;
 }
 
 /* happy tails section */
@@ -97,4 +99,19 @@ nav a {
 }
 .container {
   background-color: #f9f7fe;
+}
+.project-name {
+  margin-top: 20px;
+  font-size: 50px !important;
+}
+.project-description {
+  font-size: 25px;
+}
+
+/* footer */
+.links i {
+  color: #6c63ff !important;
+}
+.footer {
+  background-color: #f9f7fe !important;
 }
