@@ -62,7 +62,7 @@ nav a {
 /* hero */
 .hero {
   background-color: #f9f7fe;
-  height: 90vh;
+  /* height: 90vh; */
 }
 .hero h1 {
   font-size: 75px !important;
@@ -79,10 +79,22 @@ nav a {
 .button .btn {
   color: #fff !important;
   background-color: #6c63ff !important;
+  margin-bottom: 40px;
   border-radius: 4px;
   font-family: "Poppins" sans-serif;
   padding: 10px 40px;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
+}
+.social-links {
+  color: black;
+}
+
+/* happy tails section */
+.description {
+  background-color: #f9f7fe;
+}
+.container {
+  background-color: #f9f7fe;
 }
