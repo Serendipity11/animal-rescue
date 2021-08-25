@@ -112,6 +112,10 @@ nav a {
 .links i {
   color: #6c63ff !important;
 }
-.footer {
-  background-color: #f9f7fe !important;
+
+.rights {
+  font-size: 10px;
+}
+#insta {
+  margin-left: 150px !important;
 }
