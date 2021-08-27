@@ -76,7 +76,8 @@ nav a {
   font-weight: normal;
   font-size: 24px;
   line-height: 36px;
-  margin-top: 80px;
+  margin-top: 50px;
+  color: #fff;
 }
 
 .button .btn {
@@ -137,4 +138,11 @@ nav a {
 
 .foster p {
   font-size: 22px;
+}
+
+.quote p {
+  font-size: 30px;
+}
+.quote .author {
+  font-size: 20px;
 }
