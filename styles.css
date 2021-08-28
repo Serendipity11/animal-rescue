@@ -162,7 +162,14 @@ nav a {
   color: #fff;
 }
 
-.volunteer-donate ul,
-li {
+.volunteer-donate li {
   background-color: #fff;
+}
+.volunteer-donate ul {
+  background-color: #fff;
+}
+
+.donate-btn {
+  margin-right: 30px;
+  display: inline;
 }
