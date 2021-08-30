@@ -177,3 +177,36 @@ nav a {
 #quote {
   background-color: #f9f7fe;
 }
+
+.links-container {
+  background-image: url(https://images.unsplash.com/photo-1553434133-96822a8e94af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1646&q=80) !important;
+  background-size: cover;
+  color: #6c63ff;
+  height: 70vh;
+}
+.large-links {
+  /* padding-top: 60px; */
+}
+.large-links i {
+  color: #fff;
+}
+
+.large-links i:hover {
+  color: #6c63ff;
+}
+.large-links h2 {
+  color: #fff;
+}
+.h2-wrap {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  opacity: 90%;
+}
+.difference {
+  font-size: 70px;
+  /* background-color: black; */
+  margin: 0 !important;
+  /* margin-top: 160px !important; */
+  /* color: black !important; */
+  font-weight: bold !important;
+}
