@@ -202,11 +202,15 @@ nav a {
   padding: 20px;
   opacity: 90%;
 }
-.difference {
+.color-container .difference {
   font-size: 70px;
   /* background-color: black; */
   margin: 0 !important;
   /* margin-top: 160px !important; */
   /* color: black !important; */
   font-weight: bold !important;
+}
+
+.color-container {
+  background-color: black;
 }
