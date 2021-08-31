@@ -225,3 +225,8 @@ nav a {
 .contact-section a {
   color: black;
 }
+
+.pictures img {
+  height: 400px;
+  width: 100%;
+}
