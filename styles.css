@@ -221,3 +221,7 @@ nav a {
 .contact-section h1 {
   font-size: 80px;
 }
+
+.contact-section a {
+  color: black;
+}
