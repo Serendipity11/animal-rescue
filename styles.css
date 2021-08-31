@@ -135,6 +135,10 @@ nav a {
   font-size: 60px !important;
 }
 
+.main-section .adoptable {
+  color: #6c63ff;
+}
+
 /* foster page */
 
 .foster p {
