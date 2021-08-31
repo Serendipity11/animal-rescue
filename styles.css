@@ -234,3 +234,14 @@ nav a {
   height: 400px;
   width: 100%;
 }
+
+@media (max-width: 714px) {
+  .rescue img {
+    display: none;
+  }
+
+  .pictures img {
+    height: 150px;
+    width: 100%;
+  }
+}
