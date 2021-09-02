@@ -267,6 +267,9 @@ nav a {
     margin: 0 !important;
     margin-bottom: 20px !important;
   }
+  .hero {
+    background-position: center;
+  }
 
   /* navbar */
   #logo {
@@ -284,6 +287,8 @@ nav a {
   .quote p {
     font-size: 20px;
   }
+
+  /* get involved */
 
   /* contact us */
   .pictures img {
