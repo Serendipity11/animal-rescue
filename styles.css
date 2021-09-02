@@ -238,6 +238,11 @@ nav a {
 }
 
 @media (max-width: 714px) {
+  /* navbar */
+  #logo {
+    display: none;
+  }
+
   /* home */
   .project-name {
     margin-top: 0;
@@ -265,14 +270,6 @@ nav a {
   #social-links {
     margin: 0 !important;
     margin-bottom: 20px !important;
-  }
-  /* .hero {
-    background-position: center;
-  } */
-
-  /* navbar */
-  #logo {
-    display: none;
   }
 
   /* adopt */
@@ -318,6 +315,14 @@ nav a {
   .large-links .fa-facebook-square {
     display: none;
   }
+
+  /* foster */
+  .foster p {
+    font-size: 15px;
+  }
+  .foster-application {
+  }
+
   /* contact us */
   .pictures img {
     height: 100px;
