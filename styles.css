@@ -267,18 +267,27 @@ nav a {
     margin: 0 !important;
     margin-bottom: 20px !important;
   }
-  .hero {
-    background-attachment: right;
-  }
 
   /* navbar */
   #logo {
     display: none;
   }
 
+  /* adopt */
+  .main-section h3 {
+    font-size: 15px !important;
+    margin: 20px !important;
+  }
+  #adoptable {
+    margin-top: 0 !important;
+  }
+  .quote p {
+    font-size: 20px;
+  }
+
   /* contact us */
   .pictures img {
-    height: 150px;
+    height: 100px;
     width: 100%;
   }
 
