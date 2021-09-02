@@ -289,6 +289,29 @@ nav a {
   }
 
   /* get involved */
+  .main {
+    background-position: center;
+  }
+  .main h1 {
+    padding: 150px 50px;
+  }
+  .main .button a {
+    margin-bottom: 155px !important;
+  }
+  .volunteer-donate p,
+  ul {
+    font-size: 15px;
+  }
+  #volunteer-btn {
+    padding-left: 0 !important;
+    margin-top: 0 !important;
+  }
+  .vet-address {
+    margin-bottom: 10px !important;
+  }
+  .volunteer-donate #quote {
+    font-size: 15px !important;
+  }
 
   /* contact us */
   .pictures img {
