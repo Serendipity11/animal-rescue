@@ -320,7 +320,11 @@ nav a {
   .foster p {
     font-size: 15px;
   }
-  .foster-application {
+  #foster-agreement a {
+    margin-left: 90px !important;
+  }
+  .faq h2 {
+    margin-top: 0 !important;
   }
 
   /* contact us */
