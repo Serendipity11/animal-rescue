@@ -332,7 +332,9 @@ nav a {
     height: 100px;
     width: 100%;
   }
-
+  .email-link {
+    font-size: 9px;
+  }
   .contact-section #contact-header {
     font-size: 40px;
   }
