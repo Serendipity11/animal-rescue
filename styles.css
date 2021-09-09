@@ -103,7 +103,7 @@ nav a {
   color: #6c63ff !important;
 }
 
-/* happy tails section */
+/* happy tails main section */
 .description {
   background-color: #f9f7fe;
 }
@@ -333,7 +333,7 @@ nav a {
     width: 100%;
   }
   .email-link {
-    font-size: 9px;
+    font-size: 10px;
   }
   .contact-section #contact-header {
     font-size: 40px;
